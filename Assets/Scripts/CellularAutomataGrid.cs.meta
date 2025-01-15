@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a64ea1884f698794ebef86f91307833f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Air: {fileID: 1419262797683352974, guid: 7e3f00e83e47f2e4ab5ad6ff16c324dd, type: 3}
+  - Ground: {fileID: 1419262797683352974, guid: b1ab98f9aae9d494ca0c716461d4e801,
+      type: 3}
+  - Liquid: {fileID: 1419262797683352974, guid: 9a714c4a89237c941a62ac41a8147c77,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
